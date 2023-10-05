@@ -2,7 +2,7 @@
 
 Igrica arkanoid gdje korisnik uz pomoć platforme odbija lopticu da uništi blokove.
 
-#Za pokretanje:
+# Za pokretanje:
 
 npm install
 
