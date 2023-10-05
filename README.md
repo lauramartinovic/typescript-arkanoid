@@ -6,7 +6,9 @@ Igrica arkanoid gdje korisnik uz pomoć platforme odbija lopticu da uništi blok
 
 npm install
 
-npm run build 
+tsc
 
-npm start 
+npm install -g lite-server
+lite-server
+
 
